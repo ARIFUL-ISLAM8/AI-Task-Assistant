@@ -1,9 +1,9 @@
 # ⚡ AI Task Assistant
 > Built by Ariful Islam | [github.com/ARIFUL-ISLAM8](https://github.com/ARIFUL-ISLAM8)
 
-<img src="image/Picture_1.png" alt="AI Task Assistant Preview 1" width="800">
+![AI Task Assistant Preview 1](./image/Picture_1.png)
 
-<img src="image/Picture_2.png" alt="AI Task Assistant Preview 2" width="800">
+![AI Task Assistant Preview 2](./image/Picture_2.png)
 
 ## 📖 Overview
 
